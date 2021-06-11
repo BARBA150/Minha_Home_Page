@@ -877,8 +877,7 @@ a:not([href]):not([class]), a:not([href]):not([class]):hover {
 }
 
 .bg-primary {
-  background-color: #1abc9c;
-}
+  ackground-color: #8685a1;
 
 .bg-secondary {
   background-color: #2c3e50;
